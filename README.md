@@ -7,6 +7,8 @@ Date | Event
 
 
 Question - 1: 
-Learning a function using the Gradient Descent Function
+Learning a function using the Gradient Descent Function.
+
+Resources: 
 
 [Siddik Ayyappa](https://www.sites.google.com/view/siddikayyappa)
